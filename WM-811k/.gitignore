@@ -1,0 +1,24 @@
+# NumPy data files
+*.npz
+*.npy
+
+# Data files
+data/
+*.pkl
+
+# Model files
+models/
+*.keras
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# KerasTuner directory
+keras_tuner_dir/
+
+# Virtual environment
+venv/
+.venv/
+env/
